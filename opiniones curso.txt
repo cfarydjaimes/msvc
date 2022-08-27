@@ -1,1 +1,0 @@
-Me hubiese gustado que el ejemplo realizado sea un caso real de cuando usar microservicios, es decir el ejemplo esta bien pero facilmente se puede solucionar con una relacion.
